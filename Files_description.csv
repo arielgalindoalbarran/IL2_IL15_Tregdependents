@@ -1,0 +1,31 @@
+File names,Directory,Description
+Analysis_TCRseq_IL2_IL15KO.sh,Root,General script to process data from fastq to tables
+TS.fasta,FASTA files,Sequence segments to run the script Analysis_TCRseq_IL2_IL15KO.sh
+TRAC.fasta,FASTA files,Sequence segments to run the script Analysis_TCRseq_IL2_IL15KO.sh
+TRAV.fasta,FASTA files,Sequence segments to run the script Analysis_TCRseq_IL2_IL15KO.sh
+1-WT.txt,Raw Tables,Tables obtained from the script Analysis_TCRseq_IL2_IL15KO.sh for theWild type Replicate 1
+2-WT.txt,Raw Tables,Tables obtained from the script Analysis_TCRseq_IL2_IL15KO.sh for the Wild type Replicate 2
+3-WT.txt,Raw Tables,Tables obtained from the script Analysis_TCRseq_IL2_IL15KO.sh for the Wild type Replicate 3
+4-WT.txt,Raw Tables,Tables obtained from the script Analysis_TCRseq_IL2_IL15KO.sh for the Wild type Replicate 4
+1-IL2_KO.txt,Raw Tables,Tables obtained from the script Analysis_TCRseq_IL2_IL15KO.sh for the IL2o Replicate 1
+2-IL2_KO.txt,Raw Tables,Tables obtained from the script Analysis_TCRseq_IL2_IL15KO.sh for the IL2o Replicate 2
+3-IL2_KO.txt,Raw Tables,Tables obtained from the script Analysis_TCRseq_IL2_IL15KO.sh for the IL2o Replicate 3
+4-IL2_KO.txt,Raw Tables,Tables obtained from the script Analysis_TCRseq_IL2_IL15KO.sh for the IL2o Replicate 4
+1-IL15_KO.txt,Raw Tables,Tables obtained from the script Analysis_TCRseq_IL2_IL15KO.sh for the IL15o Replicate 1
+2-IL15_KO.txt,Raw Tables,Tables obtained from the script Analysis_TCRseq_IL2_IL15KO.sh for the IL15o Replicate 2
+3-IL15_KO.txt,Raw Tables,Tables obtained from the script Analysis_TCRseq_IL2_IL15KO.sh for the IL15o Replicate 3
+4-IL15_KO.txt,Raw Tables,Tables obtained from the script Analysis_TCRseq_IL2_IL15KO.sh for the IL15o Replicate 4
+IL2_dependent.txt,Processed Tables,Tables obtained from the script PublicR_V-CDR3-J.R to compare the V-CDR3-J shared clonotypes
+IL2_exclusive.txt,Processed Tables,Tables obtained from the script PublicR_V-CDR3-J.R to compare the V-CDR3-J shared clonotypes
+IL2_independent.txt,Processed Tables,Tables obtained from the script PublicR_V-CDR3-J.R to compare the V-CDR3-J shared clonotypes
+IL15_dependent.txt,Processed Tables,Tables obtained from the script PublicR_V-CDR3-J.R to compare the V-CDR3-J shared clonotypes
+IL15_exclusive.txt,Processed Tables,Tables obtained from the script PublicR_V-CDR3-J.R to compare the V-CDR3-J shared clonotypes
+IL15_independent.txt,Processed Tables,Tables obtained from the script PublicR_V-CDR3-J.R to compare the V-CDR3-J shared clonotypes
+VAsegments.txt,R scripts,Table with all v segments
+Histograms.R,R scripts,R script to graph the row tables quality
+PublicR_V-CDR3-J.R,R scripts,R script to graph the dotplots of shared clonotypes
+Vsegments_Excl_vs_indep.R,R scripts,R script to graph the V segment frequency comparing independent vs exclusive clonotypes
+V_segments_dep_indep.R,R scripts,R script to graph the V segment frequency comparing dependent vs independent clonotypes
+Morista-H_Table.R,R scripts,R script to calculate the Morista-horn index and generate a table 
+spectratype_Dep_vs_indep.R,R scripts,R script to graph the CDR3 lenght comparing independent vs exclusive clonotypes
+spectratype_Excl_vs_indep.R,R scripts,R script to graph the CDR3 lenght comparing independent vs exclusive clonotypes
