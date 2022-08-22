@@ -14,3 +14,5 @@ modulated the TCR-repertoire expressed by developing Treg. Upon transfer into Tr
 from IL-2- (and to a much lesser extent IL-15-) deficient mice suppressed immunopathology less efficiently than wt Treg. Taken
 together, our results firmly establish important non-redundant quantitative and qualitative roles for IL-2 and, to a lesser extent,
 IL-15 in intrathymic Treg-development.
+
+DOI: 10.3389/fimmu.2022.965303
